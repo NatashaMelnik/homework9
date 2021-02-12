@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Selector from './Selector'
+import './clockstyle.css'
 
 function clock() {
 
