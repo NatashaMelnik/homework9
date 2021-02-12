@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import timezones from 'compact-timezone-list';
 import Select from 'react-select';
 import ConvertTime from './ConvertTime'
+import './clockstyle.css'
 
 function Selector() {
 
