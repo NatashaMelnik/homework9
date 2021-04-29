@@ -1,12 +1,10 @@
 import React from 'react';
-import clock from './components/clock'
-//import './App.css';
-
+import Clock_ from './components/Clock'
 
 function App() {
   return (
     <div className="App">
-      {clock()}
+      {Clock_()}
     </div>
   );
 }
