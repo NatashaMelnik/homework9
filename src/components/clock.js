@@ -43,4 +43,8 @@ function Clock_() {
     );
 }
 
+<<<<<<< HEAD
 export default Clock_
+=======
+export default clock 
+>>>>>>> ec36b3e699ae56f22bd0beacadd631d659131c70
